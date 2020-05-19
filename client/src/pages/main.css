@@ -1,0 +1,19 @@
+.button {
+    width: 100px;
+    text-align: center;
+    cursor: pointer;
+    background: #dadada;
+    border: 1px solid #dcdcdc;
+    border-radius: 4px;
+    margin: auto;
+    display: block;
+    padding: 10px;
+}
+
+.list {
+    width: 500px;
+    height: 300px;
+    margin: 30px auto;
+    border: 1px solid #dcdcdc;
+    overflow-y: auto;
+}
